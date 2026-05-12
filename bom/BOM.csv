@@ -1,0 +1,51 @@
+Item,Description,Quantity,Material,Notes
+1,"Housing, AWS",1,ASA,3D printed
+2,"Insert, heat set, M2-0.4",3,Brass,Main PCB/housing
+3,"PCB, main",1,Various,
+4,"Holder, battery, 18650, 2-cell",2,Various,Soldered to item 3
+5,"Battery, lithium-titanate, 18650, 1500 mAh",4,Various,
+6,"Screw, M2-0.4 x 5 mm lg",3,Stainless steel,Main PCB/housing
+7,"PCB, charger, CN3795",1,Various,
+8,"Header, male, 2.54 mm pitch, 2P",2,Various,Soldered to item 7
+9,"Header, female, 2.54 mm pitch, 2P",2,Various,Soldered to item 3
+10,"Cap, jumper, 2.54 mm pitch, 2P",1,Various,Battery voltage selection
+11,"PCB, module, SIM7070G",1,Various,
+12,"Standoff, M2-0.4 x 1.5 mm",2,Brass,Soldered to item 3
+13,"Screw, M2-0.4 x 4 mm",2,Stainless steel,Module/Main PCB
+14,"Antenna, LTE",1,Various,"698-960 MHz, 1710-2690 MHz"
+15,"Card, SIM, Nano",1,Various,
+16,"Socket, DC, 5.5 mm x 2.1 mm, w/nut",1,Various,Solar panel connector
+17,"Cable, JST-XH, 2P, 100 mm lg, end 1 female connector, end 2 pigtail, w/male connector",1,Various,Solar panel connector
+18,"O-ring, 9 mm x 1.2 mm",1,Buna-N,Solar panel connector
+19,"Plug, snap-in, 8 mm",1,Rubber,Use when item 20 is not installed
+20,"Receptacle, M8, 4P, rear panel mount, female, w/o-ring and nut",1,Various,Required for anemometer
+21,"Cable, JST-GH, 4P, 100 mm lg, end 1 female connector, end 2 pigtail",1,Various,Required for anemometer
+22,"Cable, JST-GH, 4P, 100 mm lg, end 1 female connector, end 2 female connector",1,Various,Temperature/humidity sensor
+23,"Cover, housing",1,ASA,3D printed
+24,"Insert, heat set, M3-0.5",4,Brass,Cover/housing
+25,"O-ring, 1.5 mm x 375 mm lg",1,Buna-N,Cover/housing
+26,"Screw, M3-0.5 x 6 mm",4,Stainless steel,Cover/housing
+27,"Level, bull's eye, 15 mm x 8 mm",1,Various,
+28,"Insert, heat set, M4-0.7",2,Brass,Radiation shield/housing
+29,"Plug, housing",1,ASA,3D printed
+30,"Housing, PCB, SHT45",1,9600 resin,Tap M3-0.5 thru
+31,"Insert, PCB, SHT45",1,9600 resin,
+32,"Screw, set, nylon-tipped, M3-0.5 x 6 mm",1,Various,PCB housing/insert/PCB
+33,"PCB, SHT45",1,Various,
+34,"Plate, shield, radiation, middle",5,ASA,3D printed
+35,"Plate, shield, radiation, bottom",1,ASA,3D printed
+36,"Screw, socket head, M4-0.7 x 85 mm",2,Stainless steel,Radiation shield/housing
+37,"Bucket, tipping",1,9600 resin,
+38,"Pin, dowel, 1/16"" x 1-1/4"" lg",1,Stainless steel,Tipping bucket
+39,"Magnet, 1/8"" dia. x 1/16"" lg, magnetized through thickness",1,Neodymium,Tipping bucket
+40,"Screen, funnel",1,Stainless steel,
+41,"Mount, panel, solar, adjustable",1,ASA,3D printed
+42,"Insert, heat set, M4-0.7",2,Brass,Solar panel mount/housing
+43,"Screw, M4-0.7 x 10 mm",2,Stainless steel,Solar panel mount/housing
+44,"Insert, heat set, M3-0.5",2,Brass,Solar panel/solar panel mount
+45,"Panel, solar, 12 V, 4 W",1,Various,2x drill 3mm thru
+46,"Screw, M3-0.5 x 6 mm",2,Stainless steel,Solar panel/solar panel mount
+47,"Washer, flat, M3",2,Stainless steel,Solar panel/solar panel mount
+48,Clamp,1,ASA,3D printed
+49,"Insert, heat set, M6-1.0",4,Brass,Clamp/housing
+50,"Screw, socket head, M6-1.0 x 35 mm",4,Stainless steel,Clamp/housing
